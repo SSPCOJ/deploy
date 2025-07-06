@@ -14,6 +14,8 @@ SSPC는 docker를 기반으로 구동됩니다. docker를 먼저 설치해 주�
 
 이 리포지토리를 clone하고 터미널을 열어 `docker compose up -d`를 실행하면 됩니다.
 
+초기에 관리자 이름과 비밀번호는 각각 `root`와 `rootroot`입니다. **실행 후 꼭 변경해 주세요**.
+
 ## 구성
 
 - [Backend](https://github.com/SSPCOJ/backend)
